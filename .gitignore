@@ -1,0 +1,12 @@
+.preview*
+
+*.pdf*
+
+*.map
+
+
+node_modules
+build
+
+npm-debug.log
+
